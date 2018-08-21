@@ -15,7 +15,7 @@ public class HurufH {
 for(x=1;x<=5;x++){
  for (y=1;y<=5;y++){
      if(x==3||y==1||y==5){
-System.out.print("|");
+System.out.print("@");
  }   
 else
 System.out.print(" ");
